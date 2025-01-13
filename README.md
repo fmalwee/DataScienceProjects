@@ -1,4 +1,4 @@
-# DataScienceProjects 
+# Data Science Projects 
 
 The repository contains the projects completed related to different concepts in Data Science.
 
